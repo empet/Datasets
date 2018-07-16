@@ -1,0 +1,9 @@
+turning-point,country,lat,lon,height-meters,km-to-go
+Salzburg,Austria,47.7988500,13.0484000,424,1138
+Triglav,Slovenia,46.4385,13.631333,2864,976 
+Aschau Chiemsee,Germany,47.7817340,12.3331850,1448,797
+Lermoos Tiroler Zugspitz Arena,Austria,47.40129,10.87977,2925,680 
+Monte Baldo, Italy, 45.772553, 10.864702, 2218,499
+Matterhorn,Switzerland,45.97651,7.65832,4478,248
+Peille,France,43.8045,7.4035,482,2
+Monaco,Monaco,43.7384,7.4246,0,0
