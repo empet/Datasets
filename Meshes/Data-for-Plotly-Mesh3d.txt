@@ -1,0 +1,1 @@
+Folder for obj, off, ply and stl files
